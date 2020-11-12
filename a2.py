@@ -4,7 +4,7 @@ import array
 import matplotlib.pyplot as plt
 import scipy
 from time import sleep
-
+#random
 
 hcnok_list = [10,9,11,5,6,13,19,26]
 GPIO.setmode(GPIO.BCM)
